@@ -1,5 +1,5 @@
 <h1>Gulp Bucket</h1>
-<img src="img/gear-it-gulp.jpg">
+<img width="200" src="img/gear-it-gulp.jpg">
 
 Just clone it add your own files sources and make your developing more productive using Gulp with its plugins.
 
