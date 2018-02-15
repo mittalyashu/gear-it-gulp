@@ -14,7 +14,7 @@ Currently these plugins are installed:
 6.  Plumber (Avoid gulp from stoping and showing the errors in Command Prompt or Command Line itself)
 7.  Watch (Watching all the files for changes and reloading the browser)
 
-## Help me! To continue manange this project
+## Help me! To continue manage this project
 
 I've put a lot of time and effort into making **Gear-It-Gulp** project. If you love it, you can buy me a coffee. I promise it will be a good investment 😉.
 
